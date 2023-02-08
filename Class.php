@@ -1,4 +1,5 @@
 <?php
+
 class mobil {
     // ini class
 }
@@ -17,7 +18,6 @@ class mobil3{
     public $roda;
     public $pintu;
     public function jalan(){
-        // variable lokal didalam oop
         $pintu = 4;
         echo 'mobil berjalan';
     }
